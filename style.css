@@ -1,6 +1,9 @@
 #dock-container {
      font: Helvetica, Arial, sans-serif; 
      font-size: 12px;
+     position: absolute;
+     left: 0;
+     bottom: 0; 
 }
 #dock-container li {
      float: left;
