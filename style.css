@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-  background: url(http://wallpapercave.com/wp/AVfwECt.jpg) center center/cover fixed no-repeat;
+  background: url(https://assets.codepen.io/237800/universe-wallpaper.jpg) center center/cover fixed no-repeat;
   font-family: "Helvetica", sans-serif;
   margin: 0;
   overflow: hidden;
@@ -54,7 +54,7 @@ a:hover {
 header .selected {
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #5978f5), color-stop(100%, #335ef6));
   color: #fff;
-  border-bottom: 0.1em solid #5978F5;
+  border-bottom: 0.1em solid #5978f5;
 }
 
 /*--Menus--*/
