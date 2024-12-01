@@ -123,5 +123,3 @@ $("#volume").on("change mousemove", function() {
 				$("#volume-icon").addClass("fa fa-volume-up");
 		}
 });
-
-jackHarnerSig("light");
